@@ -1,7 +1,7 @@
 # Final Project
 # Coral Life Forms Detection for Analysis of Climate Change Impact on Coral Biodiversity
 ## Overview
-Ini adalah final project tim CV B dan CV C.
+Ini adalah final project tim CV B dan CV D.
 ## Tujuan
 Mengklasifikasikan jenis-jenis terumbu karang
 ## Pengumpulan Data
