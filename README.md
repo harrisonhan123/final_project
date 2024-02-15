@@ -10,7 +10,7 @@ Kami mengolah data terumbu karang dengan Roboflow.
 Untuk preprocessing data diolah di Roboflow.
 Data terumbu karang disediakan oleh Bapak Tri Wahyu dan pengolahan di Roboflow juga dikerjakan oleh beliau.
 ## Model
-Kami mengunakan model pre-trained YOLO8 untuk membangun model untuk mendeteksi jenis terumbu karang.
+Kami mengunakan model pre-trained YOLOv3, YOLOv5, dan YOLOv8 untuk membangun model untuk mendeteksi jenis terumbu karang.
 ## Pelatihan
 ### Hyperparameters
   Epoch: 100
